@@ -4,8 +4,9 @@ from django.db import models
 # Create your models here.
 
 class User(object):
-    pass
+    name = Field.
 
 
-class Activity(object):
-    pass
+class ActivityPeriod(object):
+    start_time =
+    end_time =
